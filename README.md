@@ -6,3 +6,6 @@ https://nsa.gov1.info/dni/nsa-ant-catalog/index.html
 download all these 
 
 https://www.youtube.com/watch?v=b0w36GAyZIA
+
+http://www.spiegel.de/netzwelt/netzpolitik/quantumtheory-wie-die-nsa-weltweit-rechner-hackt-a-941149.html
+see if you can get a translation
