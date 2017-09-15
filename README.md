@@ -11,3 +11,6 @@ http://www.spiegel.de/netzwelt/netzpolitik/quantumtheory-wie-die-nsa-weltweit-re
 see if you can get a translation
 
 https://en.wikipedia.org/wiki/Tailored_Access_Operations
+
+https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html 
+get documents
