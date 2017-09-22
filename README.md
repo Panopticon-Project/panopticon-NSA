@@ -14,3 +14,5 @@ https://en.wikipedia.org/wiki/Tailored_Access_Operations
 
 https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html 
 get documents
+
+https://www.reuters.com/article/us-cyber-standards-insight/distrustful-u-s-allies-force-spy-agency-to-back-down-in-encryption-fight-idUSKCN1BW0GV
