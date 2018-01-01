@@ -20,3 +20,5 @@ https://www.reuters.com/article/us-cyber-standards-insight/distrustful-u-s-allie
 https://www.msn.com/en-sg/news/techandscience/elite-hackers-stealing-nsa-secrets-is-%e2%80%98child%e2%80%99s-play%e2%80%99/ar-AAtiUxX?li=BBr8OIS
 
 http://www.npr.org/2017/10/05/555922305/report-hackers-stole-nsa-cybertools-in-another-breach-via-another-contractor?utm_medium=RSS&utm_campaign=news
+
+https://www.wired.com/2017/04/major-leak-suggests-nsa-deep-middle-east-banking-system/
