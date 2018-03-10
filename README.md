@@ -22,3 +22,5 @@ https://www.msn.com/en-sg/news/techandscience/elite-hackers-stealing-nsa-secrets
 http://www.npr.org/2017/10/05/555922305/report-hackers-stole-nsa-cybertools-in-another-breach-via-another-contractor?utm_medium=RSS&utm_campaign=news
 
 https://www.wired.com/2017/04/major-leak-suggests-nsa-deep-middle-east-banking-system/
+
+https://www.wired.com/story/nsa-leak-reveals-agency-list-enemy-hackers/
