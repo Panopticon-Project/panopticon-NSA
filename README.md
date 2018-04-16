@@ -24,3 +24,5 @@ http://www.npr.org/2017/10/05/555922305/report-hackers-stole-nsa-cybertools-in-a
 https://www.wired.com/2017/04/major-leak-suggests-nsa-deep-middle-east-banking-system/
 
 https://www.wired.com/story/nsa-leak-reveals-agency-list-enemy-hackers/
+
+https://publictechnology.net/articles/features/nsa-%E2%80%98we-have-not-responded-zero-day-two-years-%E2%80%93-our-adversaries-are-hitting-known
