@@ -28,3 +28,4 @@ https://www.wired.com/story/nsa-leak-reveals-agency-list-enemy-hackers/
 https://publictechnology.net/articles/features/nsa-%E2%80%98we-have-not-responded-zero-day-two-years-%E2%80%93-our-adversaries-are-hitting-known
 
 https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/
+and https://twitter.com/rj_gallagher/status/1011223381176352769
