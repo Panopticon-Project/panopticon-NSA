@@ -29,3 +29,5 @@ https://publictechnology.net/articles/features/nsa-%E2%80%98we-have-not-responde
 
 https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/
 and https://twitter.com/rj_gallagher/status/1011223381176352769
+
+https://www.securityweek.com/uk-spy-agency-joins-nsa-sharing-zero-day-disclosure-process
